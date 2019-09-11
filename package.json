@@ -5,7 +5,6 @@
   "style": "build/toastr.min.css",
   "version": "2.1.4",
   "description": "ToastrJS is a JavaScript library for Gnome / Growl type non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended.",
-  "homepage": "http://www.toastrjs.com",
   "keywords": [
     "Toastr",
     "ToastrJS",
@@ -13,21 +12,14 @@
   ],
   "maintainers": [
     {
-      "name": "John Papa",
-      "web": "http://www.johnpapa.net",
-      "twitter": "@john_papa"
+      "name": "Javid Jou",
     },
-    {
-      "name": "Tim Ferrell",
-      "web": "https://twitter.com/ferrell_tim",
-      "twitter": "@ferrell_tim"
-    }
   ],
+  "registry": "github",
   "repository": {
     "type": "git",
-    "url": "git://github.com/CodeSeven/toastr.git"
+    "url": "git://github.com/JavidJou/toastr.git"
   },
-  "bugs": "http://stackoverflow.com/questions/tagged/toastr",
   "licenses": [
     {
       "type": "MIT",
