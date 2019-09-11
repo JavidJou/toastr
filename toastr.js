@@ -424,7 +424,6 @@
 				}
 
 				function hideToast(override) {
-					return;
 					var method = override && options.closeMethod !== false ? options.closeMethod : options.hideMethod;
 					var duration = override && options.closeDuration !== false ?
 						options.closeDuration : options.hideDuration;
