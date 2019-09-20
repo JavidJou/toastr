@@ -291,7 +291,7 @@
 
 				function setAria() {
 					var ariaValue = '';
-					switch (map.iconClass) {
+					switch (map.contextClass) {
 						case 'toast-success':
 						case 'toast-info':
 							ariaValue = 'polite';
@@ -362,7 +362,7 @@
 					}
 				}
 
-				function setSequence() {
+				function setSequence
 					if (options.newestOnTop) {
 						$container.prepend($toastElement);
 					} else {
