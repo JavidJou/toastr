@@ -15,7 +15,7 @@
       "name": "Javid Jou"
     }
   ],
-  "registry": "github",
+  "registry": "npm",
   "repository": {
     "type": "git",
     "url": "git://github.com/JavidJou/toastr.git"
